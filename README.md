@@ -3,9 +3,9 @@
 
 
 # Hello!👋
-### This is Imran Sefat
+## This is Imran Sefat
 
-##### I am MD. Al Imran Sefat but most people know me by 'Imran Sefat'. I am a Software Engineer. I am also an instructor, I guided more than a thousand people to their Software Development Journey. 
+### I am MD. Al Imran Sefat but most people know me by 'Imran Sefat'. I am a Software Engineer. I am also an instructor, I guided more than a thousand people to their Software Development Journey. 
 \
 &nbsp;
 
