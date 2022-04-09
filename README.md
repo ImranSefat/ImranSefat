@@ -13,6 +13,8 @@
 # You can find some of works on the following links
 ### - YouTube Channel: [Coding with Imran](https://www.youtube.com/c/CodingwithImran)
 ### - Medium: [Medium](https://medium.com/@CodingWithImran/)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@CodingWithImran/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@CodingWithImran/0" alt="Recent Article 0"> 
+
 
 \
 &nbsp;
