@@ -6,7 +6,7 @@
 \
 &nbsp;
 # Personal Website : [www.imransefat.com](https://www.imransefat.com)
-🔭 I’m currently working on Mobile Development<br>👯 I’m looking to collaborate on Mobile and Full Stack Projects<br>🤝 I’m looking for help with Coding Interviews<br>🌱 I’m currently learning Cloud Architecture<br>💬 Ask me about Mobile or Full Stack Architecture<br>⚡ Fun fact: I love to take drone shots! 
+🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Mobile and Full Stack Projects<br>🤝 I’m looking for help with Coding Interviews<br>🌱 I’m currently learning Cloud Architectures, System Designs, etc.<br>💬 Ask me about Mobile or Full Stack Architecture<br>⚡ Fun fact: I love to take drone shots! 
 
 
 ## 🌐 Socials:
