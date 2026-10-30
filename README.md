@@ -16,3 +16,4 @@ I’m passionate about bridging business goals with technical execution — maki
 Outside my architecture work, I run Altair Fabrics — the Australian partner for my family's vertically integrated knit factory in Bangladesh (est. 2005). We produce custom knitwear — tees, fleece, activewear — for Australian brands from 100 units/style, with knitting, dyeing, testing and sewing on one campus and a Sydney point of contact. If you run an apparel brand and want factory-direct production without the agent layer: 
 
 altairfabrics.com
+[altairfabrics.com](altairfabrics.com)
